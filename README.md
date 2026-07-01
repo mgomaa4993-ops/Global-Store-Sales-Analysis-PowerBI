@@ -12,7 +12,7 @@ This project presents an interactive Power BI dashboard designed to analyze glob
 - Identify customer purchasing behavior.
 - Evaluate shipping performance.
 - Explore product profitability and sales trends.
-- Create interactive business dashboards for decision-making.
+- Build interactive dashboards to support business decision-making.
 
 ---
 
@@ -27,37 +27,50 @@ This project presents an interactive Power BI dashboard designed to analyze glob
 
 ## 📊 Dashboard Pages
 
-### 1. Overview Dashboard
-- Key Performance Indicators (KPIs)
+### Overview Dashboard
 - Total Sales
 - Total Profit
 - Total Orders
-- Overall business performance
+- Overall KPIs
 
-### 2. Sales Dashboard
+![Overview Dashboard](overview_dashboard.png)
+
+---
+
+### Sales Dashboard
 - Sales trends
-- Category performance
 - Regional analysis
+- Category performance
 - Profit analysis
 
-### 3. Customer & Shipping Dashboard
-- Customer segmentation
+![Sales Dashboard](sales_dashboard.png)
+
+---
+
+### Customer & Shipping Dashboard
+- Customer behavior analysis
 - Shipping performance
 - Delivery analysis
 
-### 4. Product Dashboard
-- Product sales analysis
+![Customer Dashboard](customer_dashboard.png)
+
+---
+
+### Product Dashboard
 - Product profitability
-- Category and sub-category performance
+- Category performance
+- Product sales analysis
+
+![Product Dashboard](product_dashboard.png)
 
 ---
 
 ## 📈 Key Insights
 
-- Identified top-performing products and categories.
-- Analyzed customer purchasing behavior.
-- Evaluated shipping efficiency and delivery performance.
-- Generated business insights to support decision-making.
+- Identified top-performing products and regions.
+- Analyzed customer purchasing patterns.
+- Evaluated shipping efficiency.
+- Generated business insights to support strategic decisions.
 
 ---
 
@@ -71,4 +84,4 @@ This project presents an interactive Power BI dashboard designed to analyze glob
 
 Mahmoud Gomaa
 
-Aspiring Data Analyst | SQL | Python | Power BI
+Aspiring Data Analyst | SQL | Python | Power BI | Excel

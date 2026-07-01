@@ -80,7 +80,38 @@ This project presents an interactive Power BI dashboard designed to analyze glob
 
 ---
 
+## 📊 Dashboard Visualizations
+
+### Overview Dashboard
+This dashboard provides a high-level overview of business performance through key performance indicators (KPIs), including total sales, profit, orders, and overall business trends.
+
+![Overview Dashboard](Over View.png)
+
+---
+
+### Sales Dashboard
+This dashboard analyzes sales performance across regions, categories, and time periods, helping identify sales trends, top-performing markets, and profitability drivers.
+
+![Sales Dashboard](Sales Analysis.png)
+
+---
+
+### Customer & Shipping Dashboard
+This dashboard explores customer purchasing behavior and shipping performance, providing insights into customer segments, delivery efficiency, and shipping trends.
+
+![Customer & Shipping Dashboard](Customer & shipping.png)
+
+---
+
+### Product Dashboard
+This dashboard evaluates product performance by analyzing sales, profit, categories, and sub-categories to identify the most and least profitable products.
+
+![Product Dashboard](Product Analysis.png)
+
+---
+
 ## 👨‍💻 Author
+
 
 Mahmoud Gomaa
 
